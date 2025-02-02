@@ -38,6 +38,7 @@ Protoss는 체력 외에 실드가 존재하며 실드가 자동으로 차는 �
 ![최대 인구수 증가](https://github.com/100-hours-a-week/2-leo-kim-cli-program/blob/main/%E1%84%8E%E1%85%AC%E1%84%83%E1%85%A2_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AE%E1%84%89%E1%85%AE_%E1%84%8C%E1%85%B3%E1%86%BC%E1%84%80%E1%85%A1.png)<br/>
 6. 유닛 뽑기<br/>
 ![유닛 생성](https://github.com/100-hours-a-week/2-leo-kim-cli-program/blob/main/%E1%84%8B%E1%85%B2%E1%84%82%E1%85%B5%E1%86%BA_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC.png)<br/>
+자원이 부족하거나 인구수를 초과한다면 유닛을 뽑을 수 없습니다.<br/>
 ![유닛 생성 불가](https://github.com/100-hours-a-week/2-leo-kim-cli-program/blob/main/%E1%84%8B%E1%85%B2%E1%84%82%E1%85%B5%E1%86%BA_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC2.png)<br/>
 7. 유닛 목록 보기<br/>
 ![유닛 목록](https://github.com/100-hours-a-week/2-leo-kim-cli-program/blob/main/%E1%84%8B%E1%85%B2%E1%84%82%E1%85%B5%E1%86%BA_%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8_%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5.png)<br/>
