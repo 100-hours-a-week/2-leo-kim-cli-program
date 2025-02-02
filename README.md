@@ -2,14 +2,21 @@
 
 ![KakaoTalk_Photo_2025-02-02-22-14-32.jpeg](attachment:a806ae52-81f6-4ce6-a071-c7944d7ce3cf:KakaoTalk_Photo_2025-02-02-22-14-32.jpeg)
 위에 그림에는 포함되어 있지 않지만
+<br/>
 TerranUnit을 상속받는 Marine, Vulture, Tank
+<br/>
 ZergUnit을 상속받는 Zergling, Hydralisk, Mutalisk
+<br/>
 ProtossUnit을 상속받는 Zealot, Dragoon, Reaver
+<br/>
 등이 있습니다.
 
 Terran은 30% 미만의 체력을 가질 시에 불타서 체력이 깎이는 기능과 수리기능
+<br/>
 Zerg는 체력이 자동으로 차는 기능
+<br/>
 Protoss는 체력 외에 실드가 존재하며 실드가 자동으로 차는 기능이 있습니다.
+<br/>
 
 주요 기능
 1. 닉네임 & 종족 선택
