@@ -1,6 +1,6 @@
 # 9x년대생의 민속놀이 스타크래프트 게임
 
-![클래스 다이어그램](./Starcraft/KakaoTalk_Photo_2025-02-02-22-14-32.jpeg)
+![클래스 다이어그램](KakaoTalk_Photo_2025-02-02-22-14-32.jpeg)
 위에 그림에는 포함되어 있지 않지만
 <br/>
 TerranUnit을 상속받는 Marine, Vulture, Tank
