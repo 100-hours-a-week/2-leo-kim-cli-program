@@ -35,6 +35,7 @@ public class Player {
             maxPopulation = Math.min((maxPopulation + 8), 200);
             System.out.println("성공적으로 인구수를 증가시켰습니다.");
             System.out.println("현재 인구수 : "+maxPopulation);
+            return;
         }
         System.out.println("미네랄이 부족합니다.");
     }
